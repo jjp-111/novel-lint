@@ -1,0 +1,16 @@
+{
+  "chapters": { "dir": "小说", "chars": [80, 200] },
+  "bannedWords": ["顿时", "瞬间", "不由得"],
+  "marker": { "char": "嗒", "maxPerChapter": 3 },
+  "timeline": [
+    { "year": 917, "era": "贞明三年", "age": 13 },
+    { "year": 918, "era": "贞明四年", "age": 14 },
+    { "year": 921, "era": "龙德元年", "age": 17 }
+  ],
+  "deaths": [
+    { "name": "周德威", "year": 918 }
+  ],
+  "foreshadow": [
+    { "id": 4, "planted": 1, "revealBy": 2, "status": "埋", "summary": "半枚铜鱼符" }
+  ]
+}
